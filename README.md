@@ -1,3 +1,22 @@
+# Routing Concept
+1. index.js -this is main index
+            -App.js is imported here
+
+2. App.js -this is general for all the components
+          -Routes folder is imported
+        
+3. Routes.js -This has the link of home page
+
+4. Home.js -This has the actual structure of the components
+
+# Files Overview
+### Compnents :
+ClassComponentExample - it includes lifecycle methods
+IncDec - it has the concept of state 
+Pages - it has all the components linked
+Routes - it has the Route for home page
+            
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
